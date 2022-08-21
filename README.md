@@ -6,7 +6,7 @@
 
 3. 무작위로 개, 고양이 이미지 뽑기
 
-4. HTML, CSS, JS 
+4. HTML, CSS, JS
 
 5. Cat Api => <https://aws.random.cat/meow>  
    Dog Api => <https://random.dog/woof.json>
